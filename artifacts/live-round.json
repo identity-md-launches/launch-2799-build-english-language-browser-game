@@ -1,0 +1,79 @@
+{
+  "kind": "Real API browser round; no mocked requests or accelerated clock",
+  "capturedAt": "2026-10-31T21:53:15.950Z",
+  "source": "https://api.squeekchain.com/v1/measurement/runs",
+  "statusSource": "https://api.squeekchain.com/v1/status",
+  "round": {
+    "id": "live-1793483363169-0",
+    "mode": "live",
+    "duration": 60000,
+    "target": 59,
+    "forecast": {
+      "samples": [
+        {
+          "start": 1793483040000,
+          "end": 1793483100000,
+          "work": 18,
+          "startCount": 59396,
+          "endCount": 59414
+        },
+        {
+          "start": 1793483100000,
+          "end": 1793483160000,
+          "work": 42,
+          "startCount": 59414,
+          "endCount": 59456
+        },
+        {
+          "start": 1793483160000,
+          "end": 1793483220000,
+          "work": 73,
+          "startCount": 59456,
+          "endCount": 59529
+        },
+        {
+          "start": 1793483220000,
+          "end": 1793483280000,
+          "work": 71,
+          "startCount": 59529,
+          "endCount": 59600
+        },
+        {
+          "start": 1793483280000,
+          "end": 1793483340000,
+          "work": 65,
+          "startCount": 59600,
+          "endCount": 59665
+        }
+      ],
+      "mean": 53.8,
+      "choice": "under"
+    },
+    "preparedAt": 1793483363169,
+    "choice": "under",
+    "lockedAt": 1793483421860,
+    "start": 1793483424860,
+    "end": 1793483484860,
+    "installation": "stream-game-sepolia-test-20261025-01",
+    "epoch": "c011f01a-93ba-45ff-8579-619ddfdf40ec",
+    "result": "correct",
+    "actual": 0,
+    "points": 100,
+    "bonus": 0,
+    "algorithmCorrect": true,
+    "settledAt": 1793483496419,
+    "reason": "",
+    "evidence": {
+      "start": 1793483424860,
+      "end": 1793483484860,
+      "work": 0,
+      "startCount": 59730,
+      "endCount": 59730
+    }
+  },
+  "progress": {
+    "score": 100,
+    "bossHp": 80
+  },
+  "displayedSourceStatus": "LIVE"
+}

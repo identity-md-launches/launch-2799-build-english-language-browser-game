@@ -1,0 +1,7 @@
+{
+  "scope": "Demo page state during the browser interaction suite; violation arrays",
+  "violations": {
+    "chromium": [],
+    "webkit": []
+  }
+}

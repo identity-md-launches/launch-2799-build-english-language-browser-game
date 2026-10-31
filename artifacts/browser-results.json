@@ -1,0 +1,70 @@
+[
+  {
+    "name": "chromium: six wins, streak cap, boss replacement, keyboard lock and pending-round reload",
+    "passed": true,
+    "score": 750
+  },
+  {
+    "name": "chromium: missed prediction and completed-progress reload",
+    "passed": true
+  },
+  {
+    "name": "chromium: guide focus return, history filter and JSON download",
+    "passed": true
+  },
+  {
+    "name": "chromium: 320/390/768/1440 reflow, first-screen action, reduced motion, axe and no script errors",
+    "passed": true,
+    "primaryActionBottom": 821.1875
+  },
+  {
+    "name": "chromium: live fixture locks future window and settles exact cumulative difference",
+    "passed": true
+  },
+  {
+    "name": "chromium: HTTP 503 during live round voids after grace with no penalty",
+    "passed": true
+  },
+  {
+    "name": "chromium: stale source disables new live rounds",
+    "passed": true
+  },
+  {
+    "name": "chromium: counter-epoch change explicitly voids active round",
+    "passed": true
+  },
+  {
+    "name": "webkit: six wins, streak cap, boss replacement, keyboard lock and pending-round reload",
+    "passed": true,
+    "score": 750
+  },
+  {
+    "name": "webkit: missed prediction and completed-progress reload",
+    "passed": true
+  },
+  {
+    "name": "webkit: guide focus return, history filter and JSON download",
+    "passed": true
+  },
+  {
+    "name": "webkit: 320/390/768/1440 reflow, first-screen action, reduced motion, axe and no script errors",
+    "passed": true,
+    "primaryActionBottom": 784.390625
+  },
+  {
+    "name": "webkit: live fixture locks future window and settles exact cumulative difference",
+    "passed": true
+  },
+  {
+    "name": "webkit: HTTP 503 during live round voids after grace with no penalty",
+    "passed": true
+  },
+  {
+    "name": "webkit: stale source disables new live rounds",
+    "passed": true
+  },
+  {
+    "name": "webkit: counter-epoch change explicitly voids active round",
+    "passed": true
+  }
+]

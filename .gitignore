@@ -1,0 +1,10 @@
+**/node_modules/
+**/.vite/
+**/.npm/
+**/.cache/
+.playwright-mcp/
+test/scratch/
+!dist/
+!dist/**
+!artifacts/
+!artifacts/**
